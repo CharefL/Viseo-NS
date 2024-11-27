@@ -1,0 +1,72 @@
+{
+    "head": {
+        "shop": "storefront-catalog-en",
+        "locale": "en-US",
+        "is_master": true
+    },
+    "items": [
+        {
+            "product_id": "10104122",
+            "variant_group_id": "variant_group_10001",
+            "title": "CLAT_Bohemian Print Cutout Chiffon Maxi Dress",
+            "caption": "Our summer-ready chiffon dress features a bohemian print and beaded cut-outs for a textural twist to maxi styles. Full of creativity on every level, it offers delicate transparencies with a pleated hem for extra swish as you move through the summer heat.",
+            "description": "Bohemian Print Chiffon Gathered Waist Silk Dress",
+            "show_in_listing": true,
+            "images": [
+                {
+                    "url": "https://mycompany/hoster/images/default/products/SU16/10001_014_Multi_OFR-1.jpg",
+                    "internal_dimension_height": 2000,
+                    "internal_dimension_width": 1414,
+                    "internal_dominant_color": "#F4F2F4",
+                    "is_main": true
+                },
+                {
+                    "url": "https://mycompany/hoster/images/default/products/SU16/10001_014_Multi_OSP-2.jpg",
+                    "internal_dimension_height": 2000,
+                    "internal_dimension_width": 1414,
+                    "internal_dominant_color": "#F4F2F4"
+                }
+            ],
+            "tax_class_id": "standard",
+            "categories": [
+                {
+                    "path": "Special collection"
+                },
+                {
+                    "path": "Releases > SUMMER 1"
+                },
+                {
+                    "path": "Shop > Dresses",
+                    "position": 10,
+                    "is_main": true
+                }
+            ],
+            "material": "LADIES' 100% SILK WOVEN DRESS",
+            "variation_color_value": "Grace Sweater Beige",
+            "variation_size_value": "4",
+            "variation_size_gender": "unisex",
+            "variation_size_type": "regular",
+            "variation_size_system": "US",
+            "external_identifiers": [
+                {
+                    "type": "sku",
+                    "value": "3825952358"
+                },
+                {
+                    "type": "ean13",
+                    "value": "1000101000007"
+                }
+            ],
+            "extended_attributes": [
+                {
+                    "name": "care",
+                    "value": "1000101 This product doesn't need special caring instructions. Handwash at 50°F is sufficent enough."
+                },
+                {
+                    "name": "fit",
+                    "value": "1000101 Tight"
+                }
+            ]
+        }
+    ]
+}
