@@ -1,0 +1,22 @@
+{
+    "head": {
+        "store_mapping": [
+            {
+                "store_id": "null",
+                "fulfillment_node_id": "DC03"
+            }
+        ],
+        "mode": "atp"
+    },
+    "items": [
+        {
+            "product_id": "1000041",
+            "fulfillment_node_id": "DC03",
+            "future_inventory":
+              {
+                "quantity": 50,
+                "date": "2025-03-15"
+          }
+        }
+    ]
+}
